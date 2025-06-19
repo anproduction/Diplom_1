@@ -6,7 +6,6 @@ venv/
 .venv/
 .pytest_cache/
 htmlcov/
-.coverage
 coverage.xml
 .vscode/
 .DS_Store
